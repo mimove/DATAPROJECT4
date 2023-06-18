@@ -104,6 +104,18 @@ SOPInstanceUID - Cada SOPInstanceUID corresponde a una imagen única.
 
 Target - La etiqueta asignada a cada muestra.
 
+<br>
+
+<br>
+
+## Equipo
+
+- [Julio Sahuquillo](https://www.linkedin.com/in/juliosahuquillohuerta/): Ingeniero en Organización Industrial.
+
+
+- [Marina Pérez](https://www.linkedin.com/in/marinaperezbarber/): Graduada en Matemáticas y Física. 
+
+- [Miguel Moratilla](https://github.com/mimove): Doctor en Ing. Aeroespacial. 
 
 <br>
 
